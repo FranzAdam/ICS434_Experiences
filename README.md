@@ -1,2 +1,2 @@
 # ICS434_Experiences
-Storage and Retreival of 434 Experiences.
+Storage and Retrieval of 434 Experiences.
